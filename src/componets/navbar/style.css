@@ -39,7 +39,6 @@ nav p{
 @media (max-width:968px){
         #navbarScroll{
                 padding-left: 10px;
-                overflow-x:auto;
         } 
 }
         
