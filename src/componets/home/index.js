@@ -62,7 +62,7 @@ const  Api = Data.map((item)=>{
                                
                            
                            </div>
-                    <div className="row2 col-md-6 col-12">
+                    <div className="row2 col-md-6 col-12 row-padding">
                         <div className="hov">
                             <img src={logo1}  alt="vaild"></img>
                         </div>
