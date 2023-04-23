@@ -8,7 +8,7 @@ import slide33 from "../../img/slide3.jpg";
 class Slide extends Component  {
   render(){
   return (
-   
+   <section className='Slider'>
     <div className='contanier'>
       
     <center><h2>SOME OF OWER MEALS</h2></center>
@@ -34,7 +34,7 @@ class Slide extends Component  {
         </div>
     </div>
    </div>
-   
+   </section>
   );
 }
 }
