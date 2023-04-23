@@ -1,7 +1,9 @@
 import Carousel from 'react-bootstrap/Carousel';
 import './style.css';
 import React , { Component } from 'react';
- 
+import slide11 from "../../img/slide1.jpg";
+import slide22 from "../../img/slide2.jpg";
+import slide33 from "../../img/slide3.jpg";
 
 class Slide extends Component  {
   render(){
@@ -14,17 +16,17 @@ class Slide extends Component  {
         <div className='col-lg-12 col-sm-12' >
         <Carousel variant="dark">
       <Carousel.Item>
-        <img className='slide' src='./img/slide1.jpg'  alt="vaild"/>
+        <img className='slide' src={slide11}  alt="vaild"/>
         <Carousel.Caption>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className='slide' src='./img/slide2.jpg'  alt="vaild"/>
+        <img className='slide' src={slide22}  alt="vaild"/>
         <Carousel.Caption>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-        <img className='slide'  src='./img/slide3.jpg'  alt="vaild"/>
+        <img className='slide'  src={slide33}  alt="vaild"/>
         <Carousel.Caption>
         </Carousel.Caption>
       </Carousel.Item>

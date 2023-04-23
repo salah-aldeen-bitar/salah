@@ -3,6 +3,7 @@ import React, { Fragment } from "react";
 import Header from "./header";
 import './home.css';
 import Data from "../../data.js";
+import logo1 from "../../img/1.png"
 
 const Home = ()=> {
 const  Api = Data.map((item)=>{
@@ -63,7 +64,7 @@ const  Api = Data.map((item)=>{
                            </div>
                     <div className="row2 col-md-6 col-12">
                         <div className="hov">
-                            <img src="./img/1.png"  alt="vaild"></img>
+                            <img src={logo1}  alt="vaild"></img>
                         </div>
                     </div>
             </div>

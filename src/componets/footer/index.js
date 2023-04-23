@@ -1,5 +1,6 @@
 import React from "react";
 import './style.css';
+import logo from "../../img/1.png";
 const Footer = ()=>{
     return(
 
@@ -7,7 +8,7 @@ const Footer = ()=>{
            <div className="container">
            <div className="row">
                 <div className="col-md-2 col-12">
-                <center><img src="./img/1.png" alt="vaild"></img></center>
+                <center><img src={logo} alt="vaild"></img></center>
                 </div>
                 <div className="col-md-6 col-12">
                 <center>
