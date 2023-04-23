@@ -49,7 +49,7 @@ const  Api = Data.map((item)=>{
             <div class="row">
                     <div className="roww col-md-6 col-12">
                            <div className="hov">
-                           <center>
+                           <center className="center-item">
                                  <h3 className="title1">at your servies</h3>
                                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br></br>
                                    Dolorem excepturi voluptatibus necessitatibus ducimus vitae quisquam amet autem culpa reiciendis <span>delectus!</span>
