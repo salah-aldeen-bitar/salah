@@ -59,7 +59,7 @@
 }
  .hov:hover{
     width: 100%;
-    height: auto;
+    height: 390px;
     transition: 0.7s ease;
   
 }
