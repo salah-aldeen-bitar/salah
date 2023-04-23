@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/salah/static/css/main.9d2dfccd.css",
+    "main.css": "/salah/static/css/main.fe926ecf.css",
     "main.js": "/salah/static/js/main.82bd4e0e.js",
     "static/js/787.b643bf77.chunk.js": "/salah/static/js/787.b643bf77.chunk.js",
     "static/media/4.jpg": "/salah/static/media/4.43ad28bc74cde17f58ca.jpg",
@@ -12,12 +12,12 @@
     "static/media/slide1.jpg": "/salah/static/media/slide1.53fd33aacdfdef4cfd7f.jpg",
     "static/media/1.png": "/salah/static/media/1.e8a316862341297c8459.png",
     "index.html": "/salah/index.html",
-    "main.9d2dfccd.css.map": "/salah/static/css/main.9d2dfccd.css.map",
+    "main.fe926ecf.css.map": "/salah/static/css/main.fe926ecf.css.map",
     "main.82bd4e0e.js.map": "/salah/static/js/main.82bd4e0e.js.map",
     "787.b643bf77.chunk.js.map": "/salah/static/js/787.b643bf77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d2dfccd.css",
+    "static/css/main.fe926ecf.css",
     "static/js/main.82bd4e0e.js"
   ]
 }
