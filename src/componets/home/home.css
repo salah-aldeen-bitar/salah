@@ -58,6 +58,8 @@
 @media(max-width:768px){
 .row-padding{
     padding-top: 400px;
+    z-index: 0;
+    
 }
 }
  .hov:hover{
@@ -79,6 +81,9 @@
     text-transform: uppercase;
     z-index: 1;
     cursor: pointer;
+}
+.roww{
+    z-index: 1;
 }
 .roww span{
     font-weight: bolder;
