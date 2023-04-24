@@ -55,8 +55,10 @@
     text-align: center;
     box-sizing: border-box;
 }
+@media(max-width:768px){
 .row-padding{
     padding-top: 400px;
+}
 }
  .hov:hover{
     width: 100%;
@@ -181,8 +183,8 @@
 }
 .contan{
     border-bottom: 2px solid ;
-    margin-bottom: 100px;
+    margin-bottom: 10px;
 }
 .about{
-    padding-bottom: 300px;
+    padding-bottom: 50px;
 }
